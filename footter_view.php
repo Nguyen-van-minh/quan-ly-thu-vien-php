@@ -10,7 +10,7 @@
                             <strong>Địa chỉ:</strong> THĂNG LONG UNIVERSITY
                         </p>
                         <p>
-                            <strong>Email: </strong> lexuanhoang1302@gmail.com
+                            <strong>Email: </strong> nguyenvanminh@gmail.com
                         </p>
                         <p>
                             <strong>Điện thoại: </strong> 0987522453
